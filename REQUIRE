@@ -1,0 +1,7 @@
+PyPlot
+BenchmarkTools
+FFTW
+Plots
+ProfileView
+PyCall
+ProgressMeter
