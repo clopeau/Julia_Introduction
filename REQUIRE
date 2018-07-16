@@ -5,3 +5,7 @@ Plots
 ProfileView
 PyCall
 ProgressMeter
+Gadfly
+DataFrames
+RDatasets
+ParallelAccelerator
