@@ -1,0 +1,10 @@
+PyPlot
+BenchmarkTools
+FFTW
+Plots
+ProfileView
+PyCall
+ProgressMeter
+Gadfly
+DataFrames
+RDatasets
